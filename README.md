@@ -1,4 +1,4 @@
-# Unity Multiplayer Gameplay Systems
+# Unity Multiplayer Party Game (Mirror)
 
 Selected gameplay and networking systems from a multiplayer party game built with Unity and Mirror.
 
