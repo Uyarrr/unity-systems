@@ -39,6 +39,9 @@ Focus:
 
 - **CastleFiascoCPU**  
   Server-side AI using a state machine and decision logic for specific minigame
+  
+- **MinigameTileUI**  
+  Handles level selection UI, hover effects, and preview playback
 
 ---
 ## Tech
